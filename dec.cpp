@@ -5,7 +5,7 @@ int main(){
     array<int, 10> arr;
 
     // Before filling the array
-    for(int i=0; i<10; i++){
+    for(int i=0; i<10; i+++){
         cout<< arr[i] << " ";
     }
     cout<<"\n";
